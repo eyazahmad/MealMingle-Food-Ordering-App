@@ -38,7 +38,7 @@ function App() {
 
   }
   const [searchRestro,setSearchRestro] = useState(SWIGGY_API_URL);
-  const [searchInput,setSearchInput] = useState();
+  const [searchInput,setSearchInput] = useState("");
 
   
 
